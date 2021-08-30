@@ -197,11 +197,55 @@
                  </tr>
 
 
+<tr>
+                    <td>20</td>
+                    <td>11/08/2021</td>
+                    
+                    <td>strings,File IO</td>
+                    <td>no</td>
+                    <td>code with herry</td>
 
+                 </tr>
 
+<tr>
+                    <td>21</td>
+                    <td>12/08/2021</td>
+                    
+                    <td>polymorphism</td>
+                    <td>yes</td>
+                    <td>code with herry</td>
+
+                 </tr>
+
+<tr>
+                    <td>22</td>
+                    <td>13/08/2021</td>
+                    
+                    <td>control statements</td>
+                    <td>no</td>
+                    <td>code with herry</td>
+
+                 </tr>
+<tr>
+                    <td>23</td>
+                    <td>14/08/2021</td>
+                    
+                    <td>revison</td>
+                    <td>no</td>
+                    <td>great learning</td>
+
+                 </tr>
   
               
- 
+ <tr>
+                    <td>24</td>
+                    <td>15/08/2021</td>
+                    
+                    <td>revision</td>
+                    <td>no</td>
+                    <td>great learning</td>
+
+                 </tr>
             </tbody>
         </table>
     </div>
