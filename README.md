@@ -2,11 +2,11 @@
 # Studypod2.0
 <body>
      <div>
-    <p><b>Name : </b><i>divyanshu parihar</i></p>
-    <p><b>Branch : </b><i>mining</i></p>
+    <p><b>Name : </b><i>Divyanshu parihar</i></p>
+    <p><b>Branch : </b><i>Mining</i></p>
     <p><b>Year : </b><i>1st</i></p>
     <p><b>SP No. : </b><i>SP0217</i></p>
-    <p><b>Mentor Name : </b><i>divya chopra</i></p>
+    <p><b>Mentor Name : </b><i>Divya chopra</i></p>
 </div>
     <div>
     <table border="5">
@@ -15,8 +15,8 @@
             <tr>
                 <th width="350">S.No</th>
                 <th width="350">Date</th>
-                <th width="350">File Name</th>
-                <th width="350">Task</th>
+              
+                <th width="350">Topic</th>
                 <th width="350">Difficulty</th>
                 <th width="350">Solution</th>
             </thead>
@@ -24,25 +24,25 @@
                   <tr>
                     <td>1</td>
                     <td>21/07/2021</td>
-                    <td>hello.c</td>
-                    <td>introduction to c++ language</td>
+                    
+                    <td>basic of c/c++</td>
                     <td>no</td>
-                    <td>no</td>
+                    <td>great learning</td>
                 </tr>
                   <tr>
                     <td>2</td>
                     <td>22/07/2021</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
+                    
+                    <td>tokens, comments,data types</td>
+                    <td>no</td>
+                    <td>great learning</td>
                 </tr>
                   <tr>
                     <td>3</td>
                     <td>23/07/2021</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
+                    
+                    <td>operators, loops , arrays </td>
+                    <td>no</td>
                     <td></td>
                 </tr>
                   <tr>
