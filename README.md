@@ -43,106 +43,175 @@
                     
                     <td>operators, loops , arrays </td>
                     <td>no</td>
-                    <td></td>
+                    <td>great learning</td>
                 </tr>
                   <tr>
                     <td>4</td>
                     <td>24/07/2021</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                  <tr>
+                    
+                    <td>functions</td>
+                    <td>no</td>
+                    <td>great learning</td>
+                  </tr>
                   <tr>
                     <td>5</td>
                     <td>25/07/2021</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
+                    
+                    <td>variables</td>
+                    <td>no</td>
+                    <td>great learning</td>
                 </tr>
                 <tr>
                     <td>6</td>
                     <td>26/07/2021</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
+                    
+                    <td>constants,Manipulators and operator procedure</td>
+                    <td>some hard</td>
+                    <td>great learning,code with herry</td>
                 </tr>
                 <tr>
                     <td>7</td>
                     <td>27/07/2021</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
+                   
+                    <td>control structures,pointers</td>
+                    <td>no</td>
+                    <td>great learning</td>
                 </tr>
                  <tr>
                     <td>8</td>
                     <td>28/07/2021</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
+                    
+                    <td>not doing anything</td>
+                    <td>no</td>
+                    <td>no</td>
                  </tr> 
                  <tr>
                     <td>9</td>
                     <td>29/07/2021</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
+                    
+                    <td>classes,header files</td>
+                    <td>no</td>
+                    <td>great learning</td>
                  </tr>
                  <tr>
                     <td>10</td>
                     <td>30/07/2021</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
+                    
+                    <td>classes</td>
+                    <td>no</td>
+                    <td>great learning</td>
                  </tr>
                  <tr>
                     <td>11</td>
                     <td>31/07/2021</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
+                    
+                    <td>inheritence</td>
+                    <td>no</td>
+                    <td>great learning</td>
                 </tr>
                  <tr>
                     <td>12</td>
                     <td>01/08/2021</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
+                    
+                    <td>nesting of meamber function</td>
+                    <td>no</td>
+                    <td>great learning</td>
                 </tr>
                 <tr>
                     <td>13</td>
                     <td>02/08/2021</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
+                    
+                    <td>object oriented programming in c++</td>
+                    <td>no</td>
+                    <td>great learning</td>
                 </tr>
                 <tr>
                     <td>14</td>
                     <td>03/08/2021</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
+                    
+                    <td>revision</td>
+                    <td>some topic is tough</td>
+                    <td>great learning</td>
                 </tr>
               <tr>
                     <td>15</td>
                     <td>04/08/2021</td>
+                    
                     <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
+                    <td>no</td>
+                    <td>great learning</td>
                 </tr>
+              <tr>
+                    <td>16</td>
+                    <td>05/08/2021</td>
+                    
+                    <td>problem related previous topics</td>
+                    <td>no</td>
+                    <td>great learning</td>
+                </tr>
+             <tr>
+                    <td>17</td>
+                    <td>06/08/2021</td>
+                    
+                    <td>not doing anything</td>
+                    <td>no</td>
+                    <td></td>
+        
+       </tr>
+             <tr>
+                    <td>18</td>
+                    <td>07/08/2021</td>
+                    
+                    <td>structures,union,enums</td>
+                    <td>no</td>
+                    <td>great learning</td>
+        
+ </tr>
+      <tr>
+                    <td>19</td>
+                    <td>08/08/2021</td>
+                    
+                    <td>cotrol structures</td>
+                    <td>no</td>
+                    <td>great learning</td>
+         </tr>
+ 
+           <tr>
+                    <td>20</td>
+                    <td>09/08/2021</td>
+                    
+                    <td>type casting, reference, variables</td>
+                    <td>no</td>
+                    <td>great learning</td>
+        
+                 </tr>
+
+<tr>
+                    <td>19</td>
+                    <td>10/08/2021</td>
+                    
+                    <td>problems solve</td>
+                    <td>no</td>
+                    <td>google and apna school</td>
+
+                 </tr>
+
+
+
+
+  
+              
+ 
             </tbody>
         </table>
     </div>
 </body>
+
+
+        
+ 
+
+
+
+
 
