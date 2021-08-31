@@ -5,7 +5,7 @@
     <p><b>Name : </b><i>divyanshu parihar</i></p>
     <p><b>Branch : </b><i>mining</i></p>
     <p><b>Year : </b><i>1st</i></p>
-    <p><b>SP No. : </b><i>SP0201</i></p>
+    <p><b>SP No. : </b><i>SP0217</i></p>
     <p><b>Mentor Name : </b><i>divya chopra</i></p>
 </div>
     <div>
